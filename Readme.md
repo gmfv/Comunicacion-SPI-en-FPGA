@@ -16,7 +16,7 @@ _Este proyecto consiste en la implementación de una termocupla Pmod TC1 para la
 
 ### Desarrollo de código 🔧
 
-El proyecto se ha desarrollado en el software Xilinx ISE Design Suite.
+El proyecto se ha desarrollado en el software [Xilinx ISE Design Suite](https://www.xilinx.com/products/design-tools/ise-design-suite.html).
 
 ## Autora ✒️
 
