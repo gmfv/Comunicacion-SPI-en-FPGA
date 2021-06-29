@@ -11,7 +11,7 @@ _Este proyecto consiste en la implementación de una termocupla Pmod TC1 para la
 
 ### Materiales Utilizados 📋
 
-* [Mimas V2 Spartan 6 FPGA Development Board] (https://numato.com/product/mimas-v2-spartan-6-fpga-development-board-with-ddr-sdram/)
+* [Mimas V2 Spartan 6 FPGA Development Board](https://numato.com/product/mimas-v2-spartan-6-fpga-development-board-with-ddr-sdram/)
 * [Pmod TC1: Termocupla tipo K, módulo con cables](https://reference.digilentinc.com/pmod/pmodtc1/start)
 
 ### Desarrollo de código 🔧
