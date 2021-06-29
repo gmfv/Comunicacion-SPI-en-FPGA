@@ -1,1 +1,3 @@
-Descripción en vhdl para implementación de un módulo Pmod Tc1 (termocupla) en una fpga (Mimas V2) con visualización de la temperatura en tres 7-segmentos
+Implementación de un módulo Pmod Tc1 (termocupla) en una fpga (Mimas V2) con visualización de la temperatura en tres 7-segmentos
+Protocolo de comunicación implementado: SPI
+Lenguaje de descripción de hardware: VHDL
