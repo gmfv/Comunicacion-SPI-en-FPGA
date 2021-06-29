@@ -4,9 +4,9 @@ _Este proyecto consiste en la implementación de una termocupla Pmod TC1 para la
 
 ## Comenzando 🚀
 
-_Se debe tener en cuenta que el ucf file varía según la FPGA, por lo que este archivo podría requerir modificaciones para su implementación correcta._
-_Se ha implementado una comunicación SPI, con un solo esclavo (Se puede modificar para una cantidad mayor)._
-_El lenguaje de descripción de hardware utilizado es VHDL_
+* Se debe tener en cuenta que el ucf file varía según la FPGA, por lo que este archivo podría requerir modificaciones para su implementación correcta.
+* Se ha implementado una comunicación SPI, con un solo esclavo (Se puede modificar para una cantidad mayor).
+* El lenguaje de descripción de hardware utilizado es **VHDL**.
 
 
 ### Materiales Utilizados 📋
