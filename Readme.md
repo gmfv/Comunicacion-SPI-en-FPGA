@@ -11,14 +11,14 @@ _Este proyecto consiste en la implementación de una termocupla Pmod TC1 para la
 
 ### Materiales Utilizados 📋
 
-_Mimas V2 Spartan 6 FPGA Development Board_
-_Pmod TC1: Termocupla tipo K, módulo con cables_
+* [Mimas V2 Spartan 6 FPGA Development Board] (https://numato.com/product/mimas-v2-spartan-6-fpga-development-board-with-ddr-sdram/)
+* [Pmod TC1: Termocupla tipo K, módulo con cables](https://reference.digilentinc.com/pmod/pmodtc1/start)
 
 ### Desarrollo de código 🔧
 
-_El proyecto se ha desarrollado en el software Xilinx ISE Design Suite_
+El proyecto se ha desarrollado en el software Xilinx ISE Design Suite.
 
 ## Autora ✒️
 
-* **Giohanna Martínez** - [gmfv](https://github.com/gmfv)
+* **Giohanna Martínez** - [GiohannaM](https://github.com/gmfv)
 
